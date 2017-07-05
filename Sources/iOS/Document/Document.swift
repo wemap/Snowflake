@@ -15,7 +15,7 @@ public class Document {
   }
   
   public init?(data: Data) {
-    guard let document = try? Reindeer.Document(data: data),
+    guard let document = try? ReindeerXML.Document(data: data),
       document.rootElement.name == "svg" else { return nil }
 
     self.svg = SVG(element: document.rootElement)
