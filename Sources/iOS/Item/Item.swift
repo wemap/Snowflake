@@ -1,6 +1,6 @@
 import UIKit
-import Reindeer
-import Reindeer
+import ReindeerXML
+import ReindeerXML
 
 public class Item {
   public let id: String

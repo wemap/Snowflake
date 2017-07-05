@@ -19,6 +19,6 @@ Pod::Spec.new do |s|
   # s.ios.frameworks = 'UIKit', 'Foundation'
   # s.osx.frameworks = 'Cocoa', 'Foundation'
 
-  s.dependency 'Reindeer'
+  s.dependency 'ReindeerXML'
   s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3.0' }
 end

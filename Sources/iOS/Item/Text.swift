@@ -1,5 +1,5 @@
 import UIKit
-import Reindeer
+import ReindeerXML
 
 public class Text: Item {
   public let point: CGPoint
