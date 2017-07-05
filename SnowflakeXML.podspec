@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "Snowflake"
+  s.name             = "SnowflakeXML"
   s.summary          = "A short description of Snowflake."
   s.version          = "0.1.0"
   s.homepage         = "https://github.com/onmyway133/Snowflake"

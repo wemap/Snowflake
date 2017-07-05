@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D5B2E89E1C3A780C00C0327D"
                BuildableName = "Snowflake.framework"
-               BlueprintName = "Snowflake-iOS"
-               ReferencedContainer = "container:Snowflake.xcodeproj">
+               BlueprintName = "SnowflakeXML-iOS"
+               ReferencedContainer = "container:SnowflakeXML.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D5B2E8A81C3A780C00C0327D"
-               BuildableName = "Snowflake-iOS-Tests.xctest"
-               BlueprintName = "Snowflake-iOS-Tests"
-               ReferencedContainer = "container:Snowflake.xcodeproj">
+               BuildableName = "SnowflakeXML-iOS-Tests.xctest"
+               BlueprintName = "SnowflakeXML-iOS-Tests"
+               ReferencedContainer = "container:SnowflakeXML.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D5B2E89E1C3A780C00C0327D"
             BuildableName = "Snowflake.framework"
-            BlueprintName = "Snowflake-iOS"
-            ReferencedContainer = "container:Snowflake.xcodeproj">
+            BlueprintName = "SnowflakeXML-iOS"
+            ReferencedContainer = "container:SnowflakeXML.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,8 +66,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D5B2E89E1C3A780C00C0327D"
             BuildableName = "Snowflake.framework"
-            BlueprintName = "Snowflake-iOS"
-            ReferencedContainer = "container:Snowflake.xcodeproj">
+            BlueprintName = "SnowflakeXML-iOS"
+            ReferencedContainer = "container:SnowflakeXML.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -84,8 +84,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D5B2E89E1C3A780C00C0327D"
             BuildableName = "Snowflake.framework"
-            BlueprintName = "Snowflake-iOS"
-            ReferencedContainer = "container:Snowflake.xcodeproj">
+            BlueprintName = "SnowflakeXML-iOS"
+            ReferencedContainer = "container:SnowflakeXML.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

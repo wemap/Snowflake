@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Snowflake.xcodeproj">
+      location = "self:/Users/ilyaseliverstov/Projects/wemap-ios-sdk/Snowflake/SnowflakeXML.xcodeproj">
    </FileRef>
 </Workspace>
